@@ -183,7 +183,7 @@ public class Ball : MonoBehaviour
 ```
 
  ## Output:
- ![Uploading image.png…]()
+ ![output](1.png)
 
  
  ## Result:
